@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deepaanshuu-17
+- 👋 Hi, I’m Deepanshu
 - 👀 I’m interested in Python & Machine Learning
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on a Project based on ML
