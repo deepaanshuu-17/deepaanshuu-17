@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepanshu
-- 👀 I’m interested in Python & Machine Learning
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Python Development
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on a Project based on ML
 - 📫 How to reach me - DM me on lodhideepanshu17@oulook.com or @deepaanshuu_17 on IG
 
