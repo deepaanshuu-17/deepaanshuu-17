@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepanshu
 - 👀 I’m interested in Python Development
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on a Project based on ML
+- 🌱 I’m currently building scalable data driven systems
+- 💞️ I’m looking to collaborate on a project based on python-ai/ml-data
 - 📫 How to reach me - DM me on [myMail](lodhideepanshu17@outlook.com).
 
 <!---
